@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace DotNetMobWebApiDotNetCore.Controllers
 {
     [Route("api/[controller]")]
-    [ApiController]
+    
     public class ValuesController : ControllerBase
     {
         // GET api/values

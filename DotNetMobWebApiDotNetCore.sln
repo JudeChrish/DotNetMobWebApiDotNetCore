@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.438
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetMobWebApiDotNetCore", "DotNetMobWebApiDotNetCore\DotNetMobWebApiDotNetCore.csproj", "{F6443849-F7AE-478A-92B3-BDE141B10047}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetMobDomain", "DotnetMobDomain\DotnetMobDomain.csproj", "{5DBBD0AF-EC9E-4749-BF00-FA4603075A89}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F6443849-F7AE-478A-92B3-BDE141B10047}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6443849-F7AE-478A-92B3-BDE141B10047}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6443849-F7AE-478A-92B3-BDE141B10047}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DBBD0AF-EC9E-4749-BF00-FA4603075A89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DBBD0AF-EC9E-4749-BF00-FA4603075A89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DBBD0AF-EC9E-4749-BF00-FA4603075A89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DBBD0AF-EC9E-4749-BF00-FA4603075A89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
